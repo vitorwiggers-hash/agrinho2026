@@ -1,3 +1,15 @@
 header{
     background-color: #70AFC4;
+    color:aquamarine
+    max-widyh: 800 px
+    margin:0 auto;
+}
+
+main{
+    background-color: black;
+    color: bisque;
+    text-align: center;
+    max-widyh: 800 px
+    margin: 0 auto
+
 }
